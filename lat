@@ -1,0 +1,13 @@
+git clone git@github.com:antoniochandra/TOS2.git
+  297  cd tugasTOS2
+  298  cd TOS2
+  299  ls -al
+  300  git init
+  301  git add
+  302  git add.
+  303  git add .
+  304  git commit -m "test"
+  305  git push -u origin master
+  306  touch key
+  307  clear
+  308  history
