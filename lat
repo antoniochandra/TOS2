@@ -1,4 +1,4 @@
-git clone git@github.com:antoniochandra/TOS2.git
+ 296  git clone git@github.com:antoniochandra/TOS2.git
   297  cd tugasTOS2
   298  cd TOS2
   299  ls -al
@@ -11,3 +11,29 @@ git clone git@github.com:antoniochandra/TOS2.git
   306  touch key
   307  clear
   308  history
+  309  wget "www.himainfra.petra.ac.id"
+  310  wget "himainfra.petra.ac.id"
+  311  wget -r -1 1  "himainfra.petra.ac.id"
+  312  ls
+  313  mv index.html index.txt
+  314  ls
+  315  clear
+  316  history
+  317  git branch
+  318  remotes/origin/master
+  319  git branch
+  320  *master
+  321  *master remotes/origin/master
+  322  git branch
+  323  git checkout master
+  324  git pull origin master
+  325  git checkout -b my-new-feature-branch
+  326  git checkout -b transaction-fail-message master
+  327  git status
+  328  git add .
+  329  git add -u
+  330  git add --all
+  331  git commit -m "HALLO"
+  332  git push origin my-new-feature-branch
+  333  clear
+  334  history
